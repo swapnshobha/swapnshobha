@@ -1,12 +1,12 @@
-<h1 align="center">Hi 👋, I'm Swarup Shinde</h1>
-<h3 align="center">A passionate Big Data Analitics CDAC student from India</h3>
-<img align="right" src=https://media.licdn.com/dms/image/D4E12AQF7RKVvozyLtg/article-cover_image-shrink_423_752/0/1665494659870?e=1698883200&v=beta&t=MTMUZ3JRNY4xmLoeic_Ya2Xxwa_alQjWyNq1LzJ48pQ >
+<h1 align="left">Hi 👋, I'm Swarup Shinde</h1>
+<h3 align="left">A passionate Big Data Analitics CDAC student from India</h3>
+<img align="center" src=https://media.licdn.com/dms/image/D4E12AQF7RKVvozyLtg/article-cover_image-shrink_423_752/0/1665494659870?e=1698883200&v=beta&t=MTMUZ3JRNY4xmLoeic_Ya2Xxwa_alQjWyNq1LzJ48pQ >
 
 
 
-- 🔭 I’m currently working on [Sentiment Analysis](repo:swapnshobha/swapnshbha.github.io)
 
-- 🌱 I’m currently learning **Big Data Analitics**
+
+
 
 - 💬 Ask me about **Python, Pandas, PySpark, Machine Learning**
 
