@@ -10,7 +10,9 @@
 
 - 💬 Ask me about **Python, Pandas, PySpark, Machine Learning**
 
-- 📫 How to reach me **swarshinde05@gmail.com**
+- 📫 How to reach me (**swarshinde05@gmail.com**)
+
+- The project was done during CDAC SENTIMENT ANALYSIS  (**https://sentimentanalysis-swapnshobha.streamlit.app/**)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
